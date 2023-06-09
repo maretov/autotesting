@@ -4,7 +4,7 @@ const capitalize = (text) => {
     }
 
     const firstChar = text[0].toUpperCase();
-    const restSubString = text.slice(1);
+    const restSubString = text.slice(2);
     return `${firstChar}${restSubString}`;
 }
 

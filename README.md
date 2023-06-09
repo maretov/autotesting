@@ -1,1 +1,1 @@
-# Learnin autotesting in JS
+# Learning autotesting in JS
